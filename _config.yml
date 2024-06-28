@@ -19,7 +19,7 @@ email: "rakshithravi16@gmail.com"
 description: "Personal website of Rakshith Ravisankar. I am a 4th year B. Tech (Hons) in Data Science student at Manipal Institute of Technology. I am proficient in Data Structures and Algorithms, machine learning, and deep learning. I am experienced in examining complex datasets, and implementing various ML and DL models. Additionally, I am skilled in SQL, data analytics, and visualization for comprehensive data insights. I am passionate about continuous learning and leveraging the latest tools and technologies for innovative solutions."
 twitter_username: rakshithravi16
 github_username: rakshithravi16
-minimal_mistakes_skin: aqua
+minimal_mistakes_skin: "aqua"
 search: true
 
 # Build settings
@@ -75,15 +75,15 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+    - # label: "Twitter"
+      # icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/rakshithravi16"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - # label: "Instagram"
+      # icon: "fab fa-fw fa-instagram"
+      # url: "https://instagram.com/"
 
 defaults:
   # _posts
