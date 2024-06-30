@@ -1,8 +1,10 @@
 ---
 permalink: /about/
 title: "About"
+author_profile: true
+layout: single
+classes: wide
+search: true
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
-
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I am pursuing a B.Tech (Honours) in Data Science at Manipal Institute of Technology, Manipal. I'm fueled by passion for leveraging data analysis and problem-solving skills to build a career in this exciting field. My current research delves into deep learning applications, and my strong interest in analytics, combined with a solid foundation in the field, equips me to tackle complex data science challenges.
