@@ -1,9 +1,13 @@
 main:
   - title: "About"
     url: /about/
+    description: "Introducing Myself & My Qualifications"
   - title: "Skills"
     url: /skills/
+    description: "Technical Skills & Projects"
   - title: "Experience"
-    url: /experience /
+    url: /experience/
+    description: "Professional & Extracurricular Experience"
   - title: "Publications"
     url: /publications/
+    description: "Research & Publications"
