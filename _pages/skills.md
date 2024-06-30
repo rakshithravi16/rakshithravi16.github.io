@@ -19,7 +19,7 @@ search: true
 
 ## Projects
 
-- [Image Classification on Fashion MNIST](https://github.com/rakshithravi16/FashionMNIST) { :class="invisible-link"}
-This project contains the code for my Fashion MNIST Classification project. In this project, I have implemented different neural network architectures to classify images of fashion items into 10 different categories.
+- [Image Classification on Fashion MNIST](https://github.com/rakshithravi16/FashionMNIST):
+  - This project contains the code for my Fashion MNIST Classification project. In this project, I have implemented different neural network architectures to classify images of fashion items into 10 different categories.
 
 ## Certifications
