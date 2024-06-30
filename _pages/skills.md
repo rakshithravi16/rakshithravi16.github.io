@@ -1,4 +1,13 @@
 
+---
+permalink: /skills/
+title: "Skills"
+author_profile: true
+layout: single
+classes: wide
+search: true
+---
+
 ## Skills
 
 - **Programming Languages:** C++, Python, Java
