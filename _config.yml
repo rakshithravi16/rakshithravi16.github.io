@@ -112,7 +112,7 @@ author:
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
-      url: "https://www.linkedin.com/in/ravisankar-rakshith16/"
+      url: "https://www.linkedin.com/in/rakshithravi16/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/rakshithravi16"
@@ -133,6 +133,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: https://github.com/rakshithravi16
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: https://linkedin.com/in/rakshithravi16
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
