@@ -9,11 +9,15 @@ search: true
 
 ## Professional Experience:
 
-- Database Intern, Electronic Payment and Services (P) Ltd. (May 2024 - Jul 2024)
+- IT Intern, Electronic Payment and Services Pvt. Ltd. (May 2024 - Jul 2024)
   - Developed a strong foundation in database administration principles through hands-on experience with Microsoft SQL Server.
   - Gained proficiency in creating and managing user accounts with different access levels.
   - Learned about various backup and recovery models, including disaster recovery (DC/DR) concepts.
   - Explored database automation techniques to understand efficiency improvements.
+  - Designed and implemented an internal incident management system using Spring Boot for improved problem-solving and knowledge sharing.
+  - Developed a user-friendly interface with registration, login, and a comprehensive dashboard for efficient tracking and management of incidents.
+  - Implemented CRUD operations to facilitate efficient incident documentation and retrieval.
+  - Enabled users to upload screenshots and other relevant files for improved problem diagnosis and resolution.
 
 ## Extra-curricular Experience:
 
