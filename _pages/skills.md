@@ -11,9 +11,9 @@ search: true
 
 - **Programming Languages:** C++, Python, Java
 - **Databases:** Microsoft SQL Server, MySQL, Oracle SQL
-- **Packages:** NumPy, pandas
-- **Visualization Tools:** matplotlib, seaborn, PowerBI
-- **ML Frameworks:** Scikit-learn, TensorFlow, Keras, 
+- **Packages:** pandas, NumPy, matplotlib, seaborn, Scikit-learn
+- **Visualization Tools:** PowerBI
+- **Frameworks:** TensorFlow, Keras, Spring Boot 
 - **Web Technologies:** HTML, CSS
 - **Version Control:** Git, GitHub
 
