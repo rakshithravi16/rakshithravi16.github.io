@@ -21,7 +21,7 @@ search: true
 
 ## Extra-curricular Experience:
 
-- Domain Head of Data Analytics & Visualization and AIML, The Data Alchemists (Sep 2023 - Present)
+- Domain Head of Data Analytics & Visualization and AIML, The Data Alchemists (Sep 2023 - Aug 2024)
   - Contributed to DataVista, a 2-week Data Science Expedition by leading workshops on Machine Learning and Computer Vision with 190 and 173 registrations respectively and organized a hackathon with 170 registrations.
 
 - Core Committee Member, TechTatva (Aug 2023 - Oct 2023)
