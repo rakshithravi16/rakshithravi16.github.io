@@ -12,9 +12,9 @@ I am pursuing a B.Tech (Honours) in Data Science at Manipal Institute of Technol
 
 ## Education
 
-- B.Tech (Hons) in Data Science and Engineering, Manipal Institute of Technology, Manipal, India (August 2021 - July 2025 *(Expected)*)
+- B.Tech (Hons) in Data Science and Engineering with Minor Specialization in Finance and Portfolio Management, Manipal Institute of Technology, Manipal, India (August 2021 - July 2025 *(Expected)*)
 
-  - CGPA 8.53/10.00
+  - CGPA 8.50/10.00
 
   - Coursework: Introduction to Data Analytics, Data Structures, Machine Learning, Database Systems, Deep Learning, Operating Systems, Big Data Analytics, Artificial Intelligence 
 
