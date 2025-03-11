@@ -25,4 +25,5 @@ search: true
 ## Certifications
 
 - **Learning Analytics Tools (NPTEL):** Achieved Elite Silver (Ranked 32nd of 835) in IIT Bombay's 12-week course.
-- **Introduction to Industry 4.0 and Industrial Internet of Things:** Achieved Elite in IIT Kharagpur's 12-week course.
+- **Introduction to Industry 4.0 and Industrial Internet of Things (NPTEL):** Achieved Elite in IIT Kharagpur's 12-week course.
+- **Ethical Hacking (NPTEL):** Achieved Elite Silver in IIT Kharagpur's 12-week course.
