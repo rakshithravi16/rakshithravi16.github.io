@@ -27,3 +27,5 @@ search: true
 - **Learning Analytics Tools (NPTEL):** Achieved Elite Silver (Ranked 32nd of 835) in IIT Bombay's 12-week course.
 - **Introduction to Industry 4.0 and Industrial Internet of Things (NPTEL):** Achieved Elite in IIT Kharagpur's 12-week course.
 - **Ethical Hacking (NPTEL):** Achieved Elite Silver in IIT Kharagpur's 12-week course.
+- **Privacy and Security in Online Social Media (NPTEL):** Achieved Elite Silver in IIIT Hyderabad's 12-week course.
+- **Introduction to Large Language Models (LLMs) (NPTEL)** Achieved Elite in IIT Delhi's 12-week course
