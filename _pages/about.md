@@ -7,16 +7,18 @@ classes: wide
 search: true
 ---
 
-I am pursuing a B.Tech (Honours) in Data Science at Manipal Institute of Technology, Manipal. I'm fueled by passion for leveraging data analysis and problem-solving skills to build a career in this exciting field. My current research delves into deep learning applications, and my strong interest in analytics, combined with a solid foundation in the field, equips me to tackle complex data science challenges.
+I recently graduated with a B.Tech (Hons) in Data Science and a Minor in Finance & Portfolio Management from MIT Manipal. I possess a solid grounding in data structures, algorithms, machine learning, and deep learning, along with practical experience tackling real-world data challenges.
+
+I am always keen to delve into emerging technologies within the AI/ML field and take pleasure in addressing problems using a blend of data-driven insights and technical creativity. As I embark on my professional journey as a TDP Associate at Optum, I am looking forward to making a meaningful contribution and advancing my career as a data and AI specialist.
 
 
 ## Education
 
-- B.Tech (Hons) in Data Science and Engineering with Minor Specialization in Finance and Portfolio Management, Manipal Institute of Technology, Manipal, India (August 2021 - July 2025 *(Expected)*)
+- B.Tech (Hons) in Data Science and Engineering with Minor Specialization in Finance and Portfolio Management, Manipal Institute of Technology, Manipal, India (October 2021 - May 2025)
 
-  - CGPA 8.50/10.00
+  - CGPA 8.74/10.00
 
-  - Coursework: Introduction to Data Analytics, Data Structures, Machine Learning, Database Systems, Deep Learning, Operating Systems, Big Data Analytics, Artificial Intelligence 
+  - Coursework: Introduction to Data Analytics, Data Structures, Machine Learning, Database Systems, Deep Learning, Operating Systems, Artificial Intelligence 
 
 - 12th Grade, Maharashtra State Board of Secondary and Higher Secondary, Aurangabad, India (2021)
 
