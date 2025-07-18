@@ -20,7 +20,7 @@ title                    : "Rakshith Ravisankar"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Rakshith Ravisankar"
-description              : "Personal website of Rakshith Ravisankar. I am a 4th year B.Tech (Hons) in Data Science student at Manipal Institute of Technology. I am proficient in Data Structures, Algorithms, machine learning, and deep learning. I am experienced in examining complex datasets, and implementing various ML and DL models. Additionally, I am skilled in SQL, data analytics, and visualization for comprehensive data insights. I am passionate about continuous learning and leveraging the latest tools and technologies for innovative solutions."
+description              : "Personal website of Rakshith Ravisankar. I recently graduated with a B.Tech (Hons) in Data Science and a Minor in Finance & Portfolio Management from MIT Manipal. I possess a solid grounding in data structures, algorithms, machine learning, and deep learning, along with practical experience tackling real-world data challenges. I am always keen to delve into emerging technologies within the AI/ML field and take pleasure in addressing problems using a blend of data-driven insights and technical creativity. As I embark on my professional journey as a TDP Associate at Optum, I am looking forward to making a meaningful contribution and advancing my career as a data and AI specialist."
 url                      : https://rakshithravi16.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : rakshithravi16/rakshithravi16.github.io
@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "Rakshith Ravisankar"
   avatar           : "/assets/images/Rakshith photo.jpg"
-  bio              : "Data Science Student"
-  location         : "Manipal, India"
+  bio              : "TDP Associate @ Optu,"
+  location         : "Bangalore, India"
   email            : "rakshithravi16@gmail.com"
   links:
     - label: "LinkedIn"
