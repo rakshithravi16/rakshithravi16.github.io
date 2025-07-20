@@ -285,6 +285,7 @@ defaults:
       path: ""
       type: posts
     values:
+      css: "main"
       layout: single
       author_profile: true
       read_time: true
