@@ -7,25 +7,69 @@ classes: wide
 search: true
 ---
 
-## Technical Skills
+## 💻 Technical Skills
 
-- **Programming Languages:** C++, Python, Java
-- **Databases:** Microsoft SQL Server, MySQL, Oracle SQL
-- **Packages:** pandas, NumPy, matplotlib, seaborn, Scikit-learn
-- **Visualization Tools:** PowerBI
-- **Frameworks:** TensorFlow, Keras, Spring Boot 
-- **Web Technologies:** HTML, CSS
-- **Version Control:** Git, GitHub
+### 🧠 Programming Languages
+- **C++** – Strong understanding of DSA concepts and problem-solving 
+- **Python** – Data analysis, ML model building, research projects  
+- **Java** – Used in backend development with Spring Boot (internship)
 
-## Projects
+### 🛢️ Databases
+- **Microsoft SQL Server**, **MySQL**, **Oracle SQL** – Experienced in writing queries and database management
 
-- [Image Classification on Fashion MNIST](https://github.com/rakshithravi16/FashionMNIST):
-  - This project contains the code for my Fashion MNIST Classification project. In this project, I have implemented different neural network architectures to classify images of fashion items into 10 different categories.
+### 📦 Packages & Libraries
+- **pandas**, **NumPy** – Data preprocessing, analysis  
+- **matplotlib**, **seaborn** – Visualizations for reports & model evaluation  
+- **Scikit-learn** – Classical ML algorithms and preprocessing
 
-## Certifications
+### 📊 Visualization Tools
+- **Power BI** – Dashboards and visual summaries
 
-- **Learning Analytics Tools (NPTEL):** Achieved Elite Silver (Ranked 32nd of 835) in IIT Bombay's 12-week course.
-- **Introduction to Industry 4.0 and Industrial Internet of Things (NPTEL):** Achieved Elite in IIT Kharagpur's 12-week course.
-- **Ethical Hacking (NPTEL):** Achieved Elite Silver in IIT Kharagpur's 12-week course.
-- **Privacy and Security in Online Social Media (NPTEL):** Achieved Elite Silver in IIIT Hyderabad's 12-week course.
-- **Introduction to Large Language Models (LLMs) (NPTEL)** Achieved Elite in IIT Delhi's 12-week course
+### ⚙️ Frameworks
+- **TensorFlow**, **Keras** – Deep learning model development (CNNs, RNNs)  
+- **Spring Boot** – Built a CRUD-based internal system during internship
+
+### 🌐 Web Technologies
+- **HTML**, **CSS** – Basic frontend customization and styling
+
+### 🔁 Version Control
+- **Git**, **GitHub** – Project versioning, collaboration, and hosting
+
+## 🧪 Projects
+
+### ARTA: Attention-guided Reinforcement Trading Agent  
+Developed a deep learning-based trading system using BiLSTM layers and attention mechanisms for stock price forecasting. Integrated model predictions into a reinforcement learning environment to simulate and optimize trading decisions.  
+- Achieved an average R² of **0.8846** and peak R² of **0.9793** across 10 Nifty 50 stocks  
+- Outperformed baseline models like LSTM, Transformer, and CNN-LSTM-GRU on MSE and MAE
+
+---
+
+### Multi-Drone Classification Using 5G RSSI Data  
+Built ML and DL models to classify the number of drones using wireless RSSI signals segmented into time windows. Evaluated various algorithms for real-time drone detection.  
+- Achieved **89.72% accuracy** using XGBoost and **89.38%** with CNN  
+- Demonstrated that simpler models can outperform deeper networks for signal-based classification tasks
+
+---
+
+### Thermal Imaging-based Human Activity Recognition Using YOLOv11  
+Designed a human activity recognition system using thermal images and YOLOv11 to classify 9 activity classes under occlusion and pose variation.  
+- Achieved high bounding box accuracy with **YOLOv11l** (*mAP@50-95 = 0.90276*) and strong pose detection accuracy with **YOLOv11s** (*mAP@50-95 = 0.82407*), with most predictions above 90% confidence  
+- **YOLOv8s** further outperformed v11, achieving *0.91506* (bbox) and *0.84857* (pose), showing its superior performance for thermal-based HAR
+
+## 🏅 Certifications
+
+- **Learning Analytics Tools (NPTEL)** – *IIT Bombay*  
+  Achieved **Elite Silver** (Ranked 32 out of 835) in a 12-week course on educational data analytics and learning metrics
+
+- **Introduction to Industry 4.0 and Industrial Internet of Things (NPTEL)** – *IIT Kharagpur*  
+  Achieved **Elite** in a 12-week course covering smart manufacturing, IIoT technologies, and automation
+
+- **Ethical Hacking (NPTEL)** – *IIT Kharagpur*  
+  Achieved **Elite Silver** in a 12-week course focused on system vulnerabilities, attack types, and ethical security practices
+
+- **Privacy and Security in Online Social Media (NPTEL)** – *IIIT Hyderabad*  
+  Achieved **Elite Silver** in a 12-week course exploring digital privacy, data leaks, and OSINT concepts
+
+- **Introduction to Large Language Models (LLMs) (NPTEL)** – *IIT Delhi*  
+  Achieved **Elite** in a 12-week course introducing transformer architectures and foundational concepts behind LLMs
+
