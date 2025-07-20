@@ -7,22 +7,30 @@ classes: wide
 search: true
 ---
 
-## Professional Experience:
+## 💼 Professional Experience
 
-- IT Intern, Electronic Payment and Services Pvt. Ltd. (May 2024 - Jul 2024)
-  - Developed a strong foundation in database administration principles through hands-on experience with Microsoft SQL Server.
-  - Gained proficiency in creating and managing user accounts with different access levels.
-  - Learned about various backup and recovery models, including disaster recovery (DC/DR) concepts.
-  - Explored database automation techniques to understand efficiency improvements.
-  - Designed and implemented an internal incident management system using Spring Boot for improved problem-solving and knowledge sharing.
-  - Developed a user-friendly interface with registration, login, and a comprehensive dashboard for efficient tracking and management of incidents.
-  - Implemented CRUD operations to facilitate efficient incident documentation and retrieval.
-  - Enabled users to upload screenshots and other relevant files for improved problem diagnosis and resolution.
+### **IT Intern**  
+**Electronic Payment and Services Pvt. Ltd.** *(May 2024 – Jul 2024)*  
+- Built a strong foundation in **database administration** using Microsoft SQL Server, including user management and access control.  
+- Worked on **backup and recovery strategies**, gaining exposure to disaster recovery (DC/DR) models.  
+- Explored **automation techniques** to optimize database efficiency and routine operations.  
+- Developed an internal **incident management system** using Spring Boot to improve issue tracking and knowledge sharing.  
+- Designed a user-friendly interface with **login, registration, and dashboard features** for incident management.  
+- Implemented full **CRUD functionality** for seamless documentation and retrieval of issues.  
+- Enabled file uploads (e.g., screenshots, PDFs📎) to support faster problem diagnosis and resolution.
 
-## Extra-curricular Experience:
+---
 
-- Domain Head of Data Analytics & Visualization and AIML, The Data Alchemists (Sep 2023 - Aug 2024)
-  - Contributed to DataVista, a 2-week Data Science Expedition by leading workshops on Machine Learning and Computer Vision with 190 and 173 registrations respectively and organized a hackathon with 170 registrations.
+## 🌟 Extra-curricular Experience
 
-- Core Committee Member, TechTatva (Aug 2023 - Oct 2023)
-  - Organized and led a 24-hour online hackathon on Kaggle, attracting 75+ participants
+### **Domain Head – Data Analytics & Visualization and AIML**  
+**The Data Alchemists** *(Sep 2023 – Aug 2024)*  
+- Led two technical workshops as part of **DataVista**, a 2-week Data Science expedition:  
+  - 🧠 *Machine Learning* (190+ registrations)  
+  - 🖼️ *Computer Vision* (170+ registrations)  
+- Organized a data science hackathon with **170+ participants**.
+
+### **Core Committee Member**  
+**TechTatva** *(Aug 2023 – Oct 2023)*  
+- Planned and hosted a **24-hour online hackathon on Kaggle**, attracting **75+ participants**.
+
