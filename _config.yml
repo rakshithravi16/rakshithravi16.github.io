@@ -20,7 +20,7 @@ title                    : "Rakshith Ravisankar"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Rakshith Ravisankar"
-description              : "Personal website of Rakshith Ravisankar. I recently graduated with a B.Tech (Hons) in Data Science and a Minor in Finance & Portfolio Management from MIT Manipal. I possess a solid grounding in data structures, algorithms, machine learning, and deep learning, along with practical experience tackling real-world data challenges. I am always keen to delve into emerging technologies within the AI/ML field and take pleasure in addressing problems using a blend of data-driven insights and technical creativity. As I embark on my professional journey as a TDP Associate at Optum, I am looking forward to making a meaningful contribution and advancing my career as a data and AI specialist."
+description              : "Personal website of Rakshith Ravisankar. I recently graduated with a B.Tech (Honours) in Data Science and a Minor in Finance & Portfolio Management from MIT Manipal. I love turning complex data into intelligent solutions using machine learning and deep learning. Currently working as a TDP Associate at Optum, where I explore data-driven innovations in the healthcare-tech space."
 url                      : https://rakshithravi16.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : rakshithravi16/rakshithravi16.github.io
@@ -285,7 +285,6 @@ defaults:
       path: ""
       type: posts
     values:
-      css: "main"
       layout: single
       author_profile: true
       read_time: true
