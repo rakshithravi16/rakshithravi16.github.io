@@ -37,10 +37,10 @@ search: true
 
 ## 🧪 Projects
 
-### ARTA: Attention-guided Reinforcement Trading Agent  
-Developed a deep learning-based trading system using BiLSTM layers and attention mechanisms for stock price forecasting. Integrated model predictions into a reinforcement learning environment to simulate and optimize trading decisions.  
-- Achieved an average R² of **0.8846** and peak R² of **0.9793** across 10 Nifty 50 stocks  
-- Outperformed baseline models like LSTM, Transformer, and CNN-LSTM-GRU on MSE and MAE
+### Thermal Imaging-based Human Activity Recognition Using YOLOv11  
+Designed a human activity recognition system using YOLOv8 and YOLOv11 for thermal images to classify into 9 activity classes  
+- Achieved high bounding box accuracy with **YOLOv11l** (*mAP@50-95 = 0.90276*) and strong pose detection accuracy with **YOLOv11s** (*mAP@50-95 = 0.82407*), with most predictions above 90% confidence  
+- **YOLOv8s** further outperformed v11, achieving *0.91506* (box) and *0.84857* (pose), showing its superior performance for thermal-based HAR
 
 ---
 
@@ -51,10 +51,10 @@ Built ML and DL models to classify the number of drones using wireless RSSI sign
 
 ---
 
-### Thermal Imaging-based Human Activity Recognition Using YOLOv11  
-Designed a human activity recognition system using thermal images and YOLOv11 to classify 9 activity classes under occlusion and pose variation.  
-- Achieved high bounding box accuracy with **YOLOv11l** (*mAP@50-95 = 0.90276*) and strong pose detection accuracy with **YOLOv11s** (*mAP@50-95 = 0.82407*), with most predictions above 90% confidence  
-- **YOLOv8s** further outperformed v11, achieving *0.91506* (bbox) and *0.84857* (pose), showing its superior performance for thermal-based HAR
+### ARTA: Attention-guided Reinforcement Trading Agent  
+Developed a deep learning-based trading system using BiLSTM layers and attention mechanisms for stock price forecasting. Integrated model predictions into a reinforcement learning environment to simulate and optimize trading decisions.  
+- Achieved an average R² of **0.8846** and peak R² of **0.9793** across 10 Nifty 50 stocks  
+- Outperformed baseline models like LSTM, Transformer, and hybrid models like CNN-LSTM-GRU
 
 ## 🏅 Certifications
 
@@ -68,7 +68,7 @@ Designed a human activity recognition system using thermal images and YOLOv11 to
   Achieved **Elite Silver** in a 12-week course focused on system vulnerabilities, attack types, and ethical security practices
 
 - **Privacy and Security in Online Social Media (NPTEL)** – *IIIT Hyderabad*  
-  Achieved **Elite Silver** in a 12-week course exploring digital privacy, data leaks, and OSINT concepts
+  Achieved **Elite Silver** in a 12-week course exploring digital privacy
 
 - **Introduction to Large Language Models (LLMs) (NPTEL)** – *IIT Delhi*  
   Achieved **Elite** in a 12-week course introducing transformer architectures and foundational concepts behind LLMs
